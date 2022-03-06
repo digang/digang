@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9b51f5&height=250&section=header&text=DIGANG's github&fontSize=40&fontColor=bfabd6&fontAlign=79" />
+
 
 
 <h3 align="center">💡 Tech Stack 💡</h3>
@@ -13,13 +14,12 @@
 <br>
 
 ### **Educations**
-<br>
 
 |  Date  |&nbsp; &nbsp; &nbsp; Contents &nbsp; &nbsp; &nbsp;  | &nbsp; &nbsp; &nbsp; Organization &nbsp; &nbsp; &nbsp;  |
 |:---:|:---:|:---:|
 |   |   |   |
 |   |   |   |
-| `2015.03.` ~ `2022.06`  | Computer Science Engineering  | Inha Univ.  |
+| `2015.03.` ~ `2022.06`  | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Computer Science Engineering  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Inha Univ.  |
 
 <!--
 **digang/digang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
