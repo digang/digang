@@ -1,5 +1,5 @@
 
-<h1 align="center">💡 Tech Stack 💡</h1>
+<h3 align="center">💡 Tech Stack 💡</h3>
 <h3 align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> &nbsp <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <br> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=Css3&logoColor=white"/> &nbsp <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> &nbsp <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <br>
@@ -10,10 +10,10 @@
 <br>
 <br>
 
-## **Educations**
+### **Educations**
 <br>
 
-| Date  | Contents  | Organization  |
+|  Date  |&nbsp; &nbsp; &nbsp; Contents &nbsp; &nbsp; &nbsp;  | &nbsp; &nbsp; &nbsp; Organization &nbsp; &nbsp; &nbsp;  |
 |:---:|:---:|:---:|
 |   |   |   |
 |   |   |   |
