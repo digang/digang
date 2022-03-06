@@ -1,4 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9b51f5&height=250&section=header&text=DIGANG's github&fontSize=40&fontColor=bfabd6&fontAlign=79" />
+<style>
+    table {
+        width : 100%
+    }
+</style>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9b51f5&height=200&section=header&text=DIGANG's github&fontSize=40&fontColor=bfabd6&fontAlign=79" />
 
 
 
@@ -15,12 +20,16 @@
 
 ### **Educations**
 
-|  Date  |&nbsp; &nbsp; &nbsp; Contents &nbsp; &nbsp; &nbsp;  | &nbsp; &nbsp; &nbsp; Organization &nbsp; &nbsp; &nbsp;  |
+|  Date  | Contents  |  Organization   |
 |:---:|:---:|:---:|
-|   |   |   |
-|   |   |   |
-| `2015.03.` ~ `2022.06`  | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Computer Science Engineering  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Inha Univ.  |
+| `2015.03.` ~ `2022.06`  |  Computer Science Engineering  | Inha University  |
 
+### **Projects**
+
+|  Date  | Project  |  Result   |
+|:---:|:---:|:---:|
+| `2021.06.` ~ `2021.07.`  |  Distinguish mask wearing | Acc:0.97  |
+| `2021.03.` ~ `2021.06.`  |  Distinguish Korean foods by Image | Acc:0.82 |
 <!--
 **digang/digang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
